@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(106, 85, 138);
+    color:black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-img-top{
+        width: 100%;
+        height:300px;
+        object-fit:cover;
+        padding: 9px;
+    }
+.card{
+    background-color: black;
+}
+.card-text{
+    color: rgb(140, 112, 182);
+}

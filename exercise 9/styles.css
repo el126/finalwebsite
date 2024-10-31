@@ -1,0 +1,14 @@
+body{
+    background-image: url(bgroundhome.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+.homeparagraph{
+    font-size: larger;
+}
+
+h1{
+    font-size: 55px;
+}
